@@ -1,0 +1,9 @@
+{
+    "name": "JOKE",
+    "version": "1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "main.html"
+    },
+    "permissions": ["activeTab"]
+}
